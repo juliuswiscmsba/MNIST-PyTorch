@@ -1,1 +1,1 @@
-# MNIST-PyTorch
+MNIST-PyTorch Practice
